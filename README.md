@@ -1,5 +1,6 @@
 Hubbub
 ======
+My Name
 
 Issues get messy, Hubbub keeps you organized.
 
